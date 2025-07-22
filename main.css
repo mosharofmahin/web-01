@@ -1,0 +1,94 @@
+
+body{
+
+	margin: 0px;
+	background-color: #f2f1ed;
+}
+
+.header{
+
+	background-color: #321940;
+}
+
+
+.header img{
+
+	height: 50px;
+	width: 50px;
+	padding: 20px;
+}
+
+.header h2{
+
+	float: right;
+	color: white;
+	padding-right: 50px;
+	padding-top: 10px;
+}
+
+
+
+.context{
+
+	display: flex;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 20px;
+
+}
+
+.photo img{
+
+	padding-right: 10px;
+
+	width: 250px;
+	height: 200px;
+}
+
+.details{
+
+	text-align: justify;
+}
+
+
+.service{
+
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: justify;
+}
+
+.service h1{
+
+	text-align: center;
+}
+
+
+
+.mycontainer{
+
+
+	display: flex;
+	/*width: 100%;*/
+	border: 2px solid #321940;
+	
+}
+
+
+.mycontainer div{
+
+	width: 30%;
+	margin: 20px;
+	padding: 5px;
+}
+
+.mycontainer h2{
+
+	padding: 10px;
+}
+
+.mycontainer p{
+
+	padding: 10px;
+}
+
